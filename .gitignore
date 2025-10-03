@@ -1,0 +1,10 @@
+# Generated test files
+*.bin
+*.tmp
+
+# Generated index files
+index.html
+index.txt
+
+# Generation progress file
+.generation_progress
